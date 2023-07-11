@@ -198,7 +198,11 @@ body {
     color: white;
     margin: 0;
     font-weight: 600;
+<<<<<<< HEAD:kanban_card/card.css
     background: linear-gradient(180deg, #a355ea 0%, #7b27d8 100%);
+=======
+    background: linear-gradient(180deg, #A355EA 0%, #7B27D8 100%);
+>>>>>>> 8a2808dbfe5941cc6db295421570ee81b6aa838a:css/main.css
     padding-inline: 1rem;
     border-radius: 1rem;
 }
@@ -253,7 +257,11 @@ input[type="text"]:focus {
     border: none;
     font-size: 1.5em;
     border-radius: 100%;
+<<<<<<< HEAD:kanban_card/card.css
     background: linear-gradient(180deg, #a355ea 0%, #7b27d8 100%);
+=======
+    background: linear-gradient(180deg, #A355EA 0%, #7B27d8 100%);
+>>>>>>> 8a2808dbfe5941cc6db295421570ee81b6aa838a:css/main.css
     color: white;
     padding: 0.2em 0.5em;
     cursor: pointer;
@@ -481,7 +489,12 @@ input[type="text"]:focus {
 }
 
 input:checked + .slider {
+<<<<<<< HEAD:kanban_card/card.css
     background: linear-gradient(180deg, #a355ea 0%, #7b27d8 100%);
+=======
+    background: linear-gradient(180deg, #A355EA 0%, #7B27d8 100%);
+}
+>>>>>>> 8a2808dbfe5941cc6db295421570ee81b6aa838a:css/main.css
 
 input:focus + .slider {
     box-shadow: 0 0 1px #2196F3;
